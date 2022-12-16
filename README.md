@@ -1,5 +1,5 @@
 
-<h1 align="left" id="macropower-title">:wave:Hello, my name is Kevin Wan and I am a junior mechanical engineering major with a math minor at the University of Connecticut. I have a strong passion for programming and enjoy creating projects in my free time. As a mechanical engineering major, I have a strong foundation in mathematics and problem-solving skills, which I believe will translate well in the field of programming. I am excited to continue learning and growing in this area and to see what the future holds for me in this fieldh1>
+<h1 align="left" id="macropower-title">:wave:Hello, my name is Kevin Wan and I am a junior mechanical engineering major with a math minor at the University of Connecticut. I have a strong passion for programming and enjoy creating projects in my free time. As a mechanical engineering major, I have a strong foundation in mathematics and problem-solving skills, which I believe will translate well in the field of programming. I am excited to continue learning and growing in this area and to see what the future holds for me in this field </h1>
 <h3 align="left">I am a Versatilist, doing SW/SR/DevOps Engineering things</h3>
 
 <p align="left">
