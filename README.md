@@ -84,7 +84,6 @@
   
   
 
-<h2 align="left">Coding Activity</h2>
 
    
 
@@ -100,3 +99,5 @@
       </a>
       <br> <a href= "https://github.com/KevinWan123/TheFunnyOnion">The Funny Onion</a>
     </td>
+
+<h2 align="left">Coding Activity</h2>
