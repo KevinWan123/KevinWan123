@@ -17,15 +17,16 @@
   </a>
 </p>
 
-<a href="#macropower-title">
-  <img src="https://raw.githubusercontent.com/KevinWan123/github-stats-transparent/output/generated/overview.svg" alt="macropower" align="right" />
-</a>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=kevinwan123&theme=radical">
 
-- :office: &nbsp;I'm currently working at **[84.51°]**
-- :seedling: &nbsp;I’m currently learning **Go**
+  
+
+- :office: &nbsp;I'm currently working at **University Of Connecticut**
+- :seedling: &nbsp;I’m currently learning **React**
 - :speech_balloon: &nbsp;I like to talk about **Homelabbing** and **OSS**
 - :mailbox: &nbsp;Ask me anything on my **[issues page]**
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
+- :computer: &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/kevinwan1/)**
+ - 🎨: &nbsp; Check out my nft collection **[OpenSea](https://opensea.io/OnionAnarchy)**
 
 <br>
 
