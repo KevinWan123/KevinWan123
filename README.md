@@ -1,6 +1,6 @@
 
-<h1 align="left" id="macropower-title">:wave:Hello, my name is Kevin Wan and I am a junior mechanical engineering major with a math minor at the University of Connecticut. I have a strong passion for programming and enjoy creating projects in my free time. As a mechanical engineering major, I have a strong foundation in mathematics and problem-solving skills, which I believe will translate well in the field of programming. I am excited to continue learning and growing in this area and to see what the future holds for me in this field </h1>
-<h3 align="left">I am a Versatilist, doing SW/SR/DevOps Engineering things</h3>
+<h1 align="left" id="macropower-title">:wave:Hello, my name is Kevin Wan </h1>
+<h3 align="left"> I am a junior mechanical engineering major with a math minor at the University of Connecticut. I have a strong passion for programming and enjoy creating projects in my free time. As a mechanical engineering major, I have a strong foundation in mathematics and problem-solving skills, which I believe will translate well in the field of programming. I am excited to continue learning and growing in this area and to see what the future holds for me in this field</h3>
 
 <p align="left">
   <a href="https://github.com/KevinWan123/KevinWan123">
@@ -49,13 +49,13 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="48" height="48" alt="Golang" />
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpngGRjYX1ca7qAADU3K6eGLj7ShQE3L2otdzfryl_Y9Ht2QRoQKYQbsXd36XIxMbYOw0&usqp=CAU" width="48" height="48" alt="HTML" />
       </a>
       <br>HTML
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FHTML&psig=AOvVaw1J96piyfj272aNXqdDKKBD&ust=1671430270122000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCOjo3Y3BgvwCFQAAAAAdAAAAABAD" width="48" height="48" alt="Jsonnet" />
+        <img src="" width="48" height="48" alt="Jsonnet" />
       </a>
       <br>CSS
     </td>
@@ -78,6 +78,9 @@
 
    
 </table>
+  
+  
+  
 
 <h2 align="left">Coding Activity</h2>
 
@@ -94,3 +97,14 @@
 
 <!-- END_SECTION:ascii_graph -->
 <!-- prettier-ignore-end -->
+  
+   <h2 align="left" id="macropower-tech">Current Projects</h2>
+  
+  
+  <table><tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://www.britefish.net/wp-content/uploads/2019/07/logo-c-1.png" width="48" height="48" alt="C#" />
+      </a>
+      <br>C#&nbsp;(Core)
+    </td>
