@@ -73,7 +73,6 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="48" height="48" alt="JavaScript" />
       </a>
       <br>JavaScript
-    </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="48" height="48" alt="React" />
@@ -92,7 +91,31 @@
   
   
    <h2 align="left" id="macropower-tech">Current Projects</h2>
-  
+  <table>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://github.com/KevinWan123/TheFunnyOnion">
+        <img src="https://i.imgur.com/wwr6B6J.png" width="48" height="48" alt="C#" />
+      </a>
+     <a href = "https://github.com/KevinWan123/TheFunnyOnion">The Funny Onion </a>
+        </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="48" height="48" alt="Pendulum Simulation" />
+      </a>
+      <br>    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="" width="48" height="48" alt="Python" />
+      </a>
+      <br>Pendulum Simulation
+    
+
+ 
+ 
+
+  </table>
+
 
     
 <h2 align="left">Coding Activity</h2>
