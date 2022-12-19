@@ -101,18 +101,10 @@
         </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="48" height="48" alt="Pendulum Simulation" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="48" height="48" alt="Double Pendulum Simulation" />
       </a>
-      <br>    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="" width="48" height="48" alt="Python" />
-      </a>
-      <br>Pendulum Simulation
-    
-
- 
- 
+      <br><a href ="https://github.com/KevinWan123/PendulumSimulationPendulum Simulation"> <br>Pendulum Simulation </a>
+    </td>
 
   </table>
 
