@@ -103,3 +103,4 @@
 
     
 <h2 align="left">Coding Activity</h2>
+[![Kevin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kevinwan123&compact=true&theme=transparent)](https://github.com/kevinwan123)
