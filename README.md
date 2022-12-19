@@ -93,24 +93,14 @@
   
    <h2 align="left" id="macropower-tech">Current Projects</h2>
   
-  
-<!--START_SECTION:waka-->
 
-```text
-From: 18 December 2022 - To: 19 December 2022
-
-Total Time: 3 hrs 19 mins
-
-HTML            2 hrs 54 mins   >>>>>>>>>>>>>>>>>>>>>>---   87.83 %
-YAML            18 mins         >>-----------------------   09.32 %
-CSS             4 mins          >------------------------   02.11 %
-JSON            1 min           -------------------------   00.53 %
-Other           0 secs          -------------------------   00.17 %
-```
-
-<!--END_SECTION:waka-->
     
 <h2 align="left">Coding Activity</h2>
   
-[![wakatime](https://wakatime.com/badge/user/e0df0454-7ed9-44f5-b20a-7227eb4daada.svg)](https://wakatime.com/@e0df0454-7ed9-44f5-b20a-7227eb4daada)
+    
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+  
+
 
