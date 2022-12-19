@@ -94,15 +94,9 @@
    <h2 align="left" id="macropower-tech">Current Projects</h2>
   
   
-  <table><tr>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://www.britefish.net/wp-content/uploads/2019/07/logo-c-1.png" width="48" height="48" alt="C#" />
-      </a>
-      <br> <a href= "https://github.com/KevinWan123/TheFunnyOnion">The Funny Onion</a>
-    </td>
-  </table>
-
+<!--START_SECTION:waka-->
+  
+<!--END_SECTION:waka-->
     
 <h2 align="left">Coding Activity</h2>
   
