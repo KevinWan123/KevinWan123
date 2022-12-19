@@ -103,4 +103,5 @@
 
     
 <h2 align="left">Coding Activity</h2>
+[![wakatime](https://wakatime.com/badge/user/e0df0454-7ed9-44f5-b20a-7227eb4daada.svg)](https://wakatime.com/@e0df0454-7ed9-44f5-b20a-7227eb4daada)
 
