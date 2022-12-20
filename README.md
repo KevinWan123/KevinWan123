@@ -118,15 +118,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 18 December 2022 - To: 19 December 2022
+From: 18 December 2022 - To: 20 December 2022
 
-Total Time: 3 hrs 19 mins
+Total Time: 9 hrs 44 mins
 
-HTML            2 hrs 54 mins   >>>>>>>>>>>>>>>>>>>>>>---   87.83 %
-YAML            18 mins         >>-----------------------   09.32 %
-CSS             4 mins          >------------------------   02.11 %
-JSON            1 min           -------------------------   00.53 %
-Other           0 secs          -------------------------   00.17 %
+HTML            9 hrs 17 mins   >>>>>>>>>>>>>>>>>>>>>>>>-   95.38 %
+YAML            18 mins         >------------------------   03.18 %
+CSS             4 mins          -------------------------   00.72 %
+XML             1 min           -------------------------   00.33 %
+JSON            1 min           -------------------------   00.18 %
+Apache Config   0 secs          -------------------------   00.15 %
 ```
 
 <!--END_SECTION:waka-->
