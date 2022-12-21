@@ -84,11 +84,6 @@
   
   
   
-
-
-   
-
-  
   
    <h2 align="left" id="macropower-tech">Current Projects</h2>
   <table>
@@ -107,12 +102,12 @@
       <br>
       <a href ="https://github.com/KevinWan123/PendulumSimulation"> <br>Pendulum Simulation </a>
     </td>
-    <td>
+    <td align="center" width = 96>
       <a href="#macropower-tech">
         <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="48" height="48" alt="Bit Monopoly" />
       </a>
       <br>
-      <a href ="https://github.com/KevinWan123/BitMonopoly"> <br>Pendulum Simulation </a>
+      <a href ="https://github.com/KevinWan123/BitMonopoly"> <br>BitMonopoly </a>
     </td>
 
   </table>
