@@ -107,6 +107,12 @@
       <br>
       <a href ="https://github.com/KevinWan123/PendulumSimulation"> <br>Pendulum Simulation </a>
     </td>
+      <a href="#macropower-tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="48" height="48" alt="Bit Monopoly" />
+      </a>
+      <br>
+      <a href ="https://github.com/KevinWan123/BitMonopoly"> <br>Pendulum Simulation </a>
+    </td>
 
   </table>
 
