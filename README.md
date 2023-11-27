@@ -120,11 +120,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 December 2022 - To: 23 November 2023
+From: 18 December 2022 - To: 25 November 2023
 
 Total Time: 48 hrs 15 mins
 
-HTML            19 hrs 40 mins  >>>>>>>>>>---------------   40.78 %
+HTML            19 hrs 40 mins  >>>>>>>>>>---------------   40.79 %
 Python          8 hrs 58 mins   >>>>>--------------------   18.60 %
 CSS             7 hrs 25 mins   >>>>---------------------   15.39 %
 PHP             6 hrs 30 mins   >>>----------------------   13.48 %
