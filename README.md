@@ -109,6 +109,13 @@
       <br>
       <a href ="https://github.com/KevinWan123/BitMonopoly"> <br>BitMonopoly </a>
     </td>
+      <td align="center" width = 96>
+    <a href="#macropower-tech">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png](https://formlabs-media.formlabs.com/filer_public/be/e5/bee5a9e9-8401-49a0-9588-bc80e4b19195/dlp_slicer_final_header.png" width="48" height="48" alt="DLP Slicer" />
+    </a>
+    <br>
+    <a href ="https://github.com/KevinWan123/DLPSlicerGUI"> <br>DLP Slicer </a>
+  </td>
 
   </table>
 
