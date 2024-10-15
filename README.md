@@ -111,7 +111,7 @@
     </td>
       <td align="center" width = 96>
     <a href="#macropower-tech">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png](https://formlabs-media.formlabs.com/filer_public/be/e5/bee5a9e9-8401-49a0-9588-bc80e4b19195/dlp_slicer_final_header.png" width="48" height="48" alt="DLP Slicer" />
+      <img src="https://th.bing.com/th/id/R.90429d54eaec38b1c5ac11da97401aa5?rik=U%2ffME6uILtC8Gg&riu=http%3a%2f%2fwww.ozone3d.net%2fpublic%2fjegx%2f201605%2fgeexlab-0-12-0-mesh-voxelization-demo-01.jpg&ehk=7mlzEP09VqK4rdoHe0FI459NhB01fZgx1umn9DxD%2fvY%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1" width="48" height="48" alt="DLP Slicer" />
     </a>
     <br>
     <a href ="https://github.com/KevinWan123/DLPSlicerGUI"> <br>DLP Slicer </a>
